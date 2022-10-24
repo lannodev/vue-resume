@@ -1,0 +1,298 @@
+{
+  "profile": {
+    "name": "Luciano Oliveira",
+    "job": "Desenvolvedor Full Stack",
+    "avatar": "img/profile/me.png",
+    "aboutMe": "Olá eu sou Luciano, desenvolvedor Fullstack de São Paulo. Eu me descrevo como um desenvolvedor que ama codificar, open source, e plataforma web. Adoro fazer cerveja, tocar guitarra e um dos meus filmes favoritos é Donnie Darko.",
+    "socialNetwork": [
+      {
+        "name": "github",
+        "url": "https://github.com/luciano-work"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lucianowork/"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lanno__"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "Luciano Oliveira",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Endereço de E-mail",
+      "value": "workingluciano@gmail.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "33 anos",
+      "value": "31 de dezembro de 1988"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Número brasileiro",
+      "value": "+55 (019) 99551-9641"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Tipo de trabalho",
+      "value": "Remoto ou Tempo Integral"
+    }
+  ],
+  "skill": [
+    "JavaScript",
+    "Angular",
+    "Vue",
+    "CSS",
+    "Tailwindcss",
+    "Dart",
+    "C#",
+    "PHP",
+    "TypeScript",
+    "Laravel",
+    "Flutter",
+    "AngularJS",
+    "Bootstrap",
+    "NodeJS",
+    "HTML",
+    "jQuery",
+    "MySQL",
+    "Microsoft SQL",
+    "VS Code",
+    "Apache",
+    "Git",
+    "Windows",
+    "Brave",
+    "Insomnia"
+  ],
+  "language": [
+    {
+      "name": "Português",
+      "code": "pt-BR",
+      "flag": "svg/brazil.svg",
+      "level": "Língua nativa"
+    },
+    {
+      "name": "Inglês",
+      "code": "en-US",
+      "flag": "svg/united-states.svg",
+      "level": "Intermediário"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Full stack Developer",
+      "company": "Ancora Group",
+      "companyLogo": "img/company/ancora.png",
+      "location": "São Paulo",
+      "workType": "Fulltime",
+      "start": "abr de 2021",
+      "end": "Atual",
+      "description": "Responsável por desenvolver aplicações backend e frontend, realizar integrações de sistemas, banco de dados e API. Identificar as necessidades e demandas da empresa criando soluções web."
+    },
+    {
+      "job": "Senior IT Analist",
+      "company": "Ancora Group",
+      "companyLogo": "img/company/ancora.png",
+      "location": "São Paulo",
+      "workType": "Fulltime",
+      "start": "mai de 2019",
+      "end": "abr de 2021",
+      "description": "Responsável por pesquisar e implantar novas tecnologias, suporte a usuários e servidores com nível avançado, desenvolver aplicações e scripts automatizando tarefas, monitorar e gerenciar servidores, switch, firewall e outras aplicações"
+    },
+    {
+      "job": "IT Analist",
+      "company": "Ancora Group",
+      "companyLogo": "img/company/ancora.png",
+      "location": "São Paulo",
+      "workType": "Fulltime",
+      "start": "abr de 2012",
+      "end": "mai de 2019",
+      "description": "Responsável por configurar e administrar a rede, auxiliar no suporte aos usuários e sistemas, instalar estações de trabalho, administrar equipamento de TI, configurar e gerenciar o Firewall (Sonicwall), implantar rotinas de backup e restore, administrar contas de usuários via Active Directory, realizar suporte a servidores."
+    },
+    {
+      "job": "Junior IT Analist",
+      "company": "Microsoft",
+      "companyLogo": "img/company/ancora.png",
+      "location": "São Paulo",
+      "workType": "Fulltime",
+      "start": "abr 2009",
+      "end": "abr 2012",
+      "description": "Responsável pelo atendimento telefônico e remoto (Help Desk), suporte à usuários e dispositivos de rede, criar e manter atualizados os procedimentos de suporte, realizar inventário de softwares e hardware, configurar e instalar novas estações de trabalho."
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Vice Coordinator",
+      "company": "Gufers",
+      "companyLogo": "img/company/gufers.png",
+      "location": "Porto Alegre",
+      "workType": "Remote",
+      "start": "January 2021",
+      "end": "Presente",
+      "description": "Vice coordenador no GUFERS, grupo colaborativo de usuários Front End do Rio Grande do Sul, pertencente a SUCESU/RS, sem fins lucrativos, que visa estimular e divulgar o desenvolvimento de software e conectar pessoas para compartilhar conhecimentos."
+    }
+  ],
+  "education": [
+    {
+      "college": "Instituto de Gestão e Tecnologia da Informação",
+      "collegeLogo": "img/college/igti.png",
+      "course": "Pós Graduação, MBA em Desenvolvimento FrontEnd",
+      "start": "mai de 2022 ",
+      "end": "dez de 2022",
+      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+    },
+    {
+      "college": "Instituto Brasileiro de Tecnologia Avançada",
+      "collegeLogo": "img/college/ibta.png",
+      "course": "Tecnólogo em Redes de Computadores, Gestão de Redes e Segurança de Sistemas",
+      "start": "jan de 2010",
+      "end": "jul de 2012",
+      "url": ""
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Bootstrap 5 do básico ao avançado",
+      "school": "Udemy",
+      "schoolLogo": "img/college/udemy.png",
+      "issueDate": "jan de 2022",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.udemy.com/certificate/UC-99025927-6d24-4571-8110-44e310049ca1"
+    },
+    {
+      "course": "Angular 9 - Essencial",
+      "school": "Cod3r",
+      "schoolLogo": "img/college/cod3r.png",
+      "issueDate": "set de 2021",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "mjsupgb3tp",
+      "url": "https://www.cod3r.com.br/certificates/mjsupgb3tp"
+    },
+    {
+      "course": "Lumen: API Rest com o Micro-framework do Laravel",
+      "school": "Alura",
+      "schoolLogo": "img/college/alura.png",
+      "issueDate": "dez de 2020",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "",
+      "url": ""
+    },
+    {
+      "course": "Criando APIs com ASP.NET Core 2.0 e Dapper",
+      "school": "Balta.io",
+      "schoolLogo": "img/college/balta.png",
+      "issueDate": "jan de 2020",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "1974",
+      "url": "https://certificates.balta.io/NWUyODRhOGFiMTIzNGIxNDIwMjc0YzgwLDVjMzUwY2Y2ZTcxNzlhN2QxMjQxNmQ4OQ=="
+    },
+    {
+      "course": "Modelando Domínios Ricos",
+      "school": "Balta.io",
+      "schoolLogo": "img/college/balta.png",
+      "issueDate": "jan de 2020",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "1975",
+      "url": "https://certificates.balta.io/NWUyODRhOGFiMTIzNGIxNDIwMjc0YzgwLDVjMzUwZjYyZTcxNzlhN2QxMjQxNzAyYQ=="
+    },
+    {
+      "course": "Introdução ao C# e Imersão ao .NET Framework",
+      "school": "Balta.io",
+      "schoolLogo": "img/college/balta.png",
+      "issueDate": "nov de 2019",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "1962",
+      "url": "https://certificates.balta.io/NWUyODRhOGFiMTIzNGIxNDIwMjc0YzgwLDVjMzM2NjRlZTcxNzlhN2QxMjQwNThlYg=="
+    },
+    {
+      "course": "Dominando Layouts no Flutter",
+      "school": "Balta.io",
+      "schoolLogo": "img/college/balta.png",
+      "issueDate": "out de 2019",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "7185",
+      "url": "https://certificates.balta.io/NWUyODRhOGFiMTIzNGIxNDIwMjc0YzgwLDVkMzYyYjQ0N2MyMTNlNTk5OGVmZWUxZg=="
+    },
+    {
+      "course": "Criando seu primeiro App com Flutter",
+      "school": "Balta.io",
+      "schoolLogo": "img/college/balta.png",
+      "issueDate": "set de 2019",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "7182",
+      "url": "https://certificates.balta.io/NWUyODRhOGFiMTIzNGIxNDIwMjc0YzgwLDVkMmZiMzY4ZTcxNzlhMjZhOTcxZmYzNw=="
+    },
+    {
+      "course": "The Complete Flutter Development Bootcamp Using Dart",
+      "school": "London App Brewery",
+      "schoolLogo": "img/college/london_app_brewery.png",
+      "issueDate": "jul de 2019",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "cert_y4vzcx9sCódigo",
+      "url": ""
+    },
+    {
+      "course": "Learning JIRA Service Desk",
+      "school": "Linkedin",
+      "schoolLogo": "img/college/linkedin.png",
+      "issueDate": "out de 2018",
+      "expirationDate": "Sem data de expiração",
+      "credentialCode": "",
+      "url": "https://www.linkedin.com/learning/learning-jira-service-desk"
+    }
+  ],
+  "project": [
+    {
+      "name": "We Slide",
+      "description": "A inspiração por trás desse pacote foi a necessidade de uma transição de slides como a do Spotify (iOS), infelizmente não consegui encontrar nenhum pacote eficiente, então eu bati meu punho na mesa, enrolei minhas mangas e criei minha própria solução. Através deste pacote, eu conseguia entender alguns princípios de animação em Flutter :)",
+      "language": "Dart",
+      "image": "img/project/weslide.png",
+      "stars": "+50",
+      "forks": "15",
+      "url": "https://github.com/luciano-work/we_slide"
+    },
+    {
+      "name": "Angular & Tailwind CSS Admin Dashboard Starter Kit",
+      "description": "Para mim, a melhor estratégia para aprender novas habilidades é praticando. Criei este projeto para aprender mais sobre o Tailwind CSS usando Angular. Tenho que te dizer, o Tailwind CSS é incrível!",
+      "language": "HTML/CSS + Javascript",
+      "image": "img/project/angular_tailwind.png",
+      "stars": "4",
+      "url": "https://github.com/luciano-work/angular-tailwind"
+    },
+    {
+      "name": "Night Storm - Tema para Vscode",
+      "description": "Por muito tempo fiquei procurando o tema ideal para o Vscode, já testei dezenas de temas e nunca consegui encontra-lo. Foi por esse motivo que decidi fazer o meu próprio tema escuro para o Visual Studio Code.",
+      "language": "Javascript",
+      "image": "img/project/night_storm.png",
+      "downloads": "+600",
+      "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm"
+    },
+    {
+      "name": "Night Storm - Tema para Insomnia",
+      "description": "Tema escuro para o Insomnia REST feito com muito ❤️",
+      "language": "Javascript",
+      "image": "img/project/night_storm.png",
+      "downloads": "+20k",
+      "url": "https://github.com/luciano-work/insomnia-plugin-theme-night-storm"
+    },
+    {
+      "name": "Neoretrō dark - Tema para Pegasus-Fe",
+      "description": "neoretrō é um tema para o Pegasus-frontend, criado por @valsou. Para uma melhor visualização durante a noite, atualizei o tema criando uma versão escura.",
+      "language": "QML",
+      "image": "img/project/pegasus_fe.png",
+      "stars": "4",
+      "forks": "6",
+      "url": "https://github.com/luciano-work/angular-tailwind"
+    }
+  ]
+}

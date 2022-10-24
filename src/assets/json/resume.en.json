@@ -1,0 +1,226 @@
+{
+  "profile": {
+    "name": "Bill Gates",
+    "job": "Co-chair, Bill & Melinda Gates Foundation",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "socialNetwork": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/billgates"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/williamhgates"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thisisbillgates/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "Bill Gates",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Mail address",
+      "value": "billgates@microsoft.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "66 Years old",
+      "value": "28 october 1955"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number",
+      "value": "+1 (800) 642 7676"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Work type",
+      "value": "Remote or Fulltime"
+    }
+  ],
+  "skill": [
+    "C#",
+    "JavaScript",
+    "Angular",
+    "Vue",
+    "CSS",
+    "Tailwindcss",
+    "Dart",
+    "PHP",
+    "TypeScript",
+    "Laravel",
+    "Flutter",
+    "AngularJS",
+    "Bootstrap",
+    "NodeJS",
+    "HTML",
+    "jQuery",
+    "Microsoft SQL",
+    "VS Code",
+    "IIS",
+    "Git",
+    "Windows",
+    "Internet Explorer",
+    "Insomnia"
+  ],
+  "language": [
+    {
+      "name": "English",
+      "code": "pt-BR",
+      "flag": "svg/united-states.svg",
+      "level": "Native Language"
+    },
+    {
+      "name": "Portuguese",
+      "code": "en-US",
+      "flag": "svg/brazil.svg",
+      "level": "Intermediate"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Bill & Melinda Gates Foundation",
+      "company": "Co-chair",
+      "companyLogo": "img/company/co-chair.jpg",
+      "location": "New York",
+      "workType": "Fulltime",
+      "start": "jan 2000",
+      "end": "Current",
+      "description": "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people’s health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Mark Suzman, under the direction of co-chairs Bill Gates and Melinda French Gates and the board of trustees."
+    },
+    {
+      "job": "Breakthrough Energy",
+      "company": "Founder",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "New York",
+      "workType": "Fulltime",
+      "start": "jan 2015",
+      "end": "Current",
+      "description": "Breakthrough Energy is dedicated to helping humanity avoid a climate disaster. Through investment vehicles, philanthropic programs, policy advocacy, and other activities, we’re committed to scaling the technologies we need to reach net-zero emissions by 2050."
+    }
+  ],
+  "education": [
+    {
+      "college": "Harvard University",
+      "collegeLogo": "img/college/harvard.jpg",
+      "course": "Mathematics, law and computer science",
+      "start": "1973",
+      "end": "1975",
+      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+    },
+    {
+      "college": "Lakeside School",
+      "collegeLogo": "img/college/lakeside.jpg",
+      "course": "Technologist in Computer Networks, Network Management and Systems Security",
+      "start": "1963",
+      "end": "1973",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Team Coordinator",
+      "company": "Green Peace",
+      "companyLogo": "img/company/green-peace.jpg",
+      "location": "New York",
+      "workType": "Remote",
+      "start": "January 2000",
+      "end": "Current",
+      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2000",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+    },
+    {
+      "course": "Microsoft 365 Fundamentals",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2001",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2002",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+    },
+    {
+      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2003",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+    },
+    {
+      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2004",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Developer Associate (AZ-204)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2005",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+    },
+    {
+      "course": "Work Smarter with Microsoft Excel",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2006",
+      "expirationDate": "No expiration date",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+    }
+  ],
+  "project": [
+    {
+      "name": "Visual Studio Code",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+      "language": "Typescript",
+      "image": "img/project/vscode.png",
+      "stars": "+138k",
+      "forks": "23.8k",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    {
+      "name": "TypeScript",
+      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
+      "language": "Typescript",
+      "image": "img/project/typescript.png",
+      "stars": "+85.3k",
+      "forks": "11.1k",
+      "url": "https://github.com/microsoft/TypeScript"
+    }
+  ]
+}
