@@ -18,7 +18,7 @@
 
 This is a template for you if you want to put your resume online to share it easily with future employers or clients!
 
-See [Demo](https://angular-tailwind-six.vercel.app) page.
+See [Demo](https://vue-resume-six.vercel.app) page.
 
 
 #### Versions
