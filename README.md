@@ -1,46 +1,59 @@
-# resume
+<p align="center">
+    <img src="preview/preview.png">
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+    <a href="https://github.com/luciano-work/vue-resume/stargazers">
+        <img height= "24" src="https://img.shields.io/github/stars/luciano-work/vue-resume?colorA=1e1e28&colorB=c9cbff&style=for-the-badge">
+    </a>
+    <a href="https://github.com/luciano-work/vue-resume/issues">
+        <img height= "24" src="https://img.shields.io/github/issues/luciano-work/vue-resume?colorA=1e1e28&colorB=f7be95&style=for-the-badge">
+    </a>
+    <a href="https://github.com/luciano-work/vue-resume/contributors">
+        <img height= "24" src="https://img.shields.io/github/contributors/luciano-work/vue-resume?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge">
+    </a>
+</p>
 
-## Recommended IDE Setup
+#### About
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This is a template for you if you want to put your resume online to share it easily with future employers or clients!
 
-## Type Support for `.vue` Imports in TS
+See [Demo](https://angular-tailwind-six.vercel.app) page.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+#### Versions
+<a href="https://vuejs.org"><img height= "24" src= "https://img.shields.io/badge/Vue.js-059669?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a> <a href="https://tailwindcss.com"><img height= "24" src= "https://img.shields.io/badge/Tailwind 3-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+#### Commands
 
-## Customize configuration
+| command | What it does? | 
+| ------- | :------------ | 
+| `npm run dev` | Starts the server in dev mode |
+| `npm run lint` | Runs ESLint on project |
+| `npm run prettier` | Runs prettier on entire src folder |
+| `npm run prettier:verify` | Runs prettier-check and throws error if fails |
+| `npm run prettier:staged` | Runs prettier on only staged (changed) files |
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+#### Dependencies
 
-## Project Setup
+| Package | What it does? | Link |
+| ------- | :------------ | :----|
+| `@headlessui/vue` | A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS. | [Here](https://headlessui.com/) |
+| `@heroicons/vue` | Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. | [Here](https://heroicons.com/)|
+| `vue-easy-lightbox` | A Vue.js 3.0 image lightbox component with Zoom / Drag / Rotate / Switch . | [Here](https://www.npmjs.com/package/vue-easy-lightbox)|
+| `vue-i18n` | Vue I18n is internationalization plugin for Vue.js | [Here](https://kazupon.github.io/vue-i18n/)|
 
-```sh
-npm install
-```
+#### Dev Dependencies
 
-### Compile and Hot-Reload for Development
+| Package | What it does? | Link |
+| ------- | :------------ | :----|
+| `prettier` | An opinionated code formatter | [Here](https://www.npmjs.com/package/prettier)|
+| `prettier-plugin-tailwindcss` | A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order | [Here](https://www.npmjs.com/package/prettier-plugin-tailwindcss)|
+| `tailwindcss` | A utility-first CSS framework for rapidly building custom user interfaces. | [Here](https://www.npmjs.com/package/tailwindcss)|
 
-```sh
-npm run dev
-```
+#### Icons
+This project use [Hero Icons](https://heroicons.com/)
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+#### Disclaimer
+The Tailwind name and logos are trademarks of Tailwind Labs Inc.
+The Vue name and logos are trademarks of Vue.
